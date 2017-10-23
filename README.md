@@ -8,15 +8,15 @@ At SIDA, collaboration underscores everything we do. Our award-winning partnersh
 
 ## News 
 
-## People 
-
-Soo-Heang EO, PhD
-
-Kyungnam BAE, MS, CFA
-
-Jihye Kim
-
 ## Research
+
+### Transaction Data Analytics
+
+
+### Unstructured Data Analytics
+
+
+### IoT Data Analytics
 
 ## Publications
 
